@@ -1,0 +1,87 @@
+*{
+  font-family: arial;
+}
+
+address{
+  font-size: 14px;
+  margin-left: 1%;
+  color: gray;
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+  width: 300px;
+}
+
+h4{
+  font-size: 14px;
+  margin-left: 1%;
+  color: gray;
+  background-color: rgb(237, 235, 235);
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+  width: 300px;
+}
+
+h1{
+  margin-left: 1%;
+  margin-right: 1%;
+  color: gray;
+  background-color: rgb(237, 235, 235);
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+p{
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: justify;
+}
+
+h2{
+  margin-left: 1%;
+  margin-right: 1%;
+  color: rgb(82, 81, 81);
+  background-color: rgb(237, 235, 235);
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+.semestres{
+  color: rgb(42, 42, 42);
+  background-color: rgb(224, 224, 224);
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 1%;
+  width: 350px;
+}
+
+time{
+  font-weight: bold;
+}
+
+.temas-de-estudio{
+  color: rgb(42, 42, 42);
+  background-color: rgb(224, 224, 224);
+  border-radius: 20px;
+  padding: 10px 10px 10px 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+}
+
+sub{
+  color: grey;
+}
+
+abbr{
+  font-weight: bold;
+}
+
+dt{
+  margin-left: 1%;
+  font-weight: bold;
+  font-size: 16px;
+}
